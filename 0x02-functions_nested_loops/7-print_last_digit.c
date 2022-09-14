@@ -15,8 +15,3 @@ last = last * -1;
 _putchar(last + '0');
 return (last);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-

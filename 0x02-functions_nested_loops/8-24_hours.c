@@ -42,5 +42,3 @@ hours_ones = '0';
 hours_tens++;
 }
 }
-Footer
-
